@@ -1,2 +1,10 @@
 /ruff.toml
 /Servo_test
+/venv
+/.venv
+*.pyc
+__pycache__
+.env
+*.logs
+logs
+*.egg-info
