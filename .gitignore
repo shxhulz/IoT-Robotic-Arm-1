@@ -8,3 +8,6 @@ __pycache__
 *.logs
 logs
 *.egg-info
+node_modules
+venv
+__pycache__
